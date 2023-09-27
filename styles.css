@@ -7,3 +7,6 @@ p {
 }
 #name {color:blueviolet}
 .nameclass {color:aqua}
+h2 {
+    text-align: center;
+}
